@@ -2,7 +2,7 @@
 
 # Tips & Tricks
 
-This repo houses analytics tips and tricks created by Selica Analytics
+This repo houses analytics tips and tricks created by [Selica Analytics](https://selica.ca)
 
 ## Power BI
 
