@@ -1,6 +1,8 @@
-[logo] https://github.com/Selica-Analytics/tips/blob/main/transparent_w_name.png "Selica Analytics Logo"
+![alt text](https://github.com/Selica-Analytics/tips/blob/main/transparent_w_name.png)
 
-# Tips & Trictransport_w_nameis repo houses analytics tips and tricks created by Selica Analytics
+# Tips & Tricks
+
+This repo houses analytics tips and tricks created by Selica Analytics
 
 ## Power BI
 
