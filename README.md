@@ -1,6 +1,6 @@
-# Tips & Tricks
+https://github.com/adam-p/markdown-here/raw/master/src/common/images/transparent_w_name.png "Logo Title Text 2"
 
-This repo houses analytics tips and tricks created by Selica Analytics
+# Tips & Trictransport_w_nameis repo houses analytics tips and tricks created by Selica Analytics
 
 ## Power BI
 
