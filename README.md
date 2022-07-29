@@ -1,4 +1,4 @@
-https://github.com/adam-p/markdown-here/raw/master/src/common/images/transparent_w_name.png "Logo Title Text 2"
+https://github.com/Selica-Analytics/tips/blob/main/transparent_w_name.png "Selica Analytics Logo"
 
 # Tips & Trictransport_w_nameis repo houses analytics tips and tricks created by Selica Analytics
 
