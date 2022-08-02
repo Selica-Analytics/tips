@@ -8,13 +8,13 @@ This repo houses analytics tips and tricks created by [Selica Analytics](https:/
 
 ### Getting to Know Power BI
 
-1. [Getting Started with Power BI](https://github.com/Selica-Analytics/tips/tree/main/power_bi/getting_started_power_bi).
+1. [Getting Started with Power BI](https://github.com/Selica-Analytics/tips/tree/main/power_bi/getting_started_power_bi). Blog post can be found [here](https://www.selica.ca/resources/powerbi/gettingstartedpbi)
 
 ### Power Query / M
-1. [Creating a date table with Power Query / M](https://github.com/Selica-Analytics/tips/tree/main/power_bi/creating_date_table_power_query). Blog post can be found [here](https://selica/ca).
+1. [Creating a date table with Power Query / M](https://github.com/Selica-Analytics/tips/tree/main/power_bi/creating_date_table_power_query). Blog post can be found [here](https://www.selica.ca/resources/powerbi/datetablepowerquery).
 
 ### Visualization
 
-1. [Make your data look good]()
+1. [Make your data look good](https://github.com/Selica-Analytics/tips/tree/main/power_bi/make_your_data_look_good). Blog post can be found [here]().
 
 
